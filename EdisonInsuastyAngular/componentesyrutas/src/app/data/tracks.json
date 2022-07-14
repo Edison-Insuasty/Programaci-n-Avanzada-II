@@ -1,0 +1,29 @@
+{
+    "data":[{
+        "id":1,
+        "name":"Getting Over",
+        "album":"One love",
+        "cover":"https://jenesaispop.com/wp-content/uploads/guette_onelove.jpg",
+        "artist":{
+            "name":"David Guetta",
+            "nickname":"David Guetta",
+            "nationality":"FR"
+        },
+        
+        "duracion":{
+            "start":0,
+            "end":333
+        },
+
+        "url":"http://localhost:3000/tracks.mp3"
+
+
+        }
+    ]
+
+
+
+
+
+
+}
